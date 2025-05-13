@@ -5,3 +5,7 @@ Perfect for beginners learning digital output and timing using digitalWrite() an
 Upload the code to your Arduino board and watch the LEDs blink in sequence!
 Make sure LEDs are connected with current-limiting resistors to avoid damage.
 ![image](https://github.com/user-attachments/assets/a4d561c3-476f-4f0f-b61f-c4a48a972481)
+
+using BreadBoard!!..
+![image](https://github.com/user-attachments/assets/4b74d2db-8744-4793-aa07-8c9a64b1dfcb)
+
