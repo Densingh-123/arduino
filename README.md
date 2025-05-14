@@ -9,3 +9,6 @@ Make sure LEDs are connected with current-limiting resistors to avoid damage.
 using BreadBoard!!..
 ![image](https://github.com/user-attachments/assets/4b74d2db-8744-4793-aa07-8c9a64b1dfcb)
 
+PotentioMeter!!..
+
+![image](https://github.com/user-attachments/assets/c428234f-f3d5-4e7f-8535-7b9789f2f35d)
