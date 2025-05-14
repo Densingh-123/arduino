@@ -1,0 +1,14 @@
+float cal=0.0;
+int red=A4;
+void setup()
+{
+  pinMode(red, INPUT);
+  Serial.begin(9600);
+}
+
+void loop()
+{
+ cal=(5.0/1023.0)*(analogRead(red));
+  Serial.println(cal);
+  delay(1000);
+}
