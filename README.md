@@ -16,3 +16,5 @@ Buzzer!!..
 ![image](https://github.com/user-attachments/assets/51f05fe0-4abd-4c24-b373-ce7c3c808e6b)
 Photo Resistor!!..
 ![image](https://github.com/user-attachments/assets/0e7eb77b-6b63-47b2-9055-b49dd18982e0)
+Temperature Sensor!!..
+![image](https://github.com/user-attachments/assets/73bcaddc-be03-49c2-bb39-2bad7c08e5ee)
