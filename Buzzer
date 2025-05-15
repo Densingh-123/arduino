@@ -1,0 +1,21 @@
+float cal=0.0;
+int red=7;
+int buzzer=9;
+void setup()
+{
+  pinMode(buzzer,OUTPUT);
+  pinMode(red, INPUT);
+  Serial.begin(9600);
+}
+
+void loop()
+{
+ 
+ cal=((5.0/1023.0)*analogRead(red));
+  Serial.println(cal);
+  delay(1000);
+   analogWrite(buzzer,4);
+  delay(1000);
+  analogWrite(buzzer,0);
+  delay(1000);
+}
