@@ -1,0 +1,38 @@
+int red = 9;    
+int green = 10; 
+int blue = 11;  
+String setColor;
+
+void setup() {
+  Serial.begin(9600);  
+  pinMode(red, OUTPUT);
+  pinMode(green, OUTPUT);
+  pinMode(blue, OUTPUT);
+}
+
+void loop() {
+  if (Serial.available()) {
+    setColor = Serial.readStringUntil('\n'); 
+    setColor.trim();  
+    Serial.println("Received: " + setColor);
+
+    if (setColor == "red") {
+      analogWrite(red, 255);
+      analogWrite(green, 0);
+      analogWrite(blue, 0);
+    }
+    else if (setColor == "green") {
+      analogWrite(red, 0);
+      analogWrite(green, 255);
+      analogWrite(blue, 0);
+    }
+    else if (setColor == "blue") {
+      analogWrite(red, 0);
+      analogWrite(green, 0);
+      analogWrite(blue, 255);
+    }
+    else {
+      Serial.println("Color not recognized.");
+    }
+  }
+}
