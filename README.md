@@ -24,3 +24,5 @@ Switch!!..
 ![image](https://github.com/user-attachments/assets/4ce6dcd0-fa5b-4aa3-812c-991c683a7040)
 LED Light!!..
 ![image](https://github.com/user-attachments/assets/e71b90fe-57c6-4f49-9418-a4467e448a1c)
+LED Logics!!..
+![image](https://github.com/user-attachments/assets/575c04af-87d5-4230-88c2-b3275e0fa1b4)
