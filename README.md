@@ -20,3 +20,5 @@ Temperature Sensor!!..
 ![image](https://github.com/user-attachments/assets/73bcaddc-be03-49c2-bb39-2bad7c08e5ee)
 ![image](https://github.com/user-attachments/assets/a9d6977d-9530-4a68-a1f9-688470bc098b)
 
+Switch!!..
+![image](https://github.com/user-attachments/assets/4ce6dcd0-fa5b-4aa3-812c-991c683a7040)
