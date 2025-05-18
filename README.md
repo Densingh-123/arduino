@@ -18,3 +18,4 @@ Photo Resistor!!..
 ![image](https://github.com/user-attachments/assets/0e7eb77b-6b63-47b2-9055-b49dd18982e0)
 Temperature Sensor!!..
 ![image](https://github.com/user-attachments/assets/73bcaddc-be03-49c2-bb39-2bad7c08e5ee)
+![Uploading image.png…]()
