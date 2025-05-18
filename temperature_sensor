@@ -1,0 +1,17 @@
+int read = A0;
+float temp;
+float readval;
+float calcval;
+void setup()
+{
+pinMode(read,INPUT);
+  Serial.begin(9600);
+}
+
+void loop()
+{
+  readval = analogRead(read);
+  calcval = (readval)*(5.0/1023.0);
+  temp=calcval/0.01;
+ Serial.println(temp);
+}
